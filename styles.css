@@ -183,3 +183,11 @@ button {
     border: 1px solid white;
 }
 
+.footer {
+    background-color: var(--so-header-background-color);
+    padding: 40px 0;
+    color: var(--so-secondary-color);
+    font-weight: var(--so-light-weight);
+    display: flex;
+    justify-content: center;
+}
